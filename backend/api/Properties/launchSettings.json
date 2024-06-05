@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "api": {
+      "commandName": "Project",
+      "commandLineArgs": "-- 7071",
+      "launchBrowser": false
+    }
+  }
+}
