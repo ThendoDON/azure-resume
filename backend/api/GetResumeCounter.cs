@@ -7,11 +7,13 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
-using Microsoft.Azure.Functions.Worker;
+using System.Net;
+using System.Text.Json;
 using System.Data.Common;
 using System.Configuration;
 using System.Net.Http;
 using System.Text;
+
 
 namespace Company.Function
 {
