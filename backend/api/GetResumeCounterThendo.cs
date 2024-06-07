@@ -17,9 +17,9 @@ using System.Text;
 
 namespace Company.Function
 {
-    public static class GetResumeCounter
+    public static class GetResumeCounterThendo
     {
-        [FunctionName("GetResumeCounter")]
+        [FunctionName("GetResumeCounterThendo")]
         public static HttpResponseMessage Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
             [CosmosDB(
