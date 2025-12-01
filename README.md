@@ -67,4 +67,4 @@ The back-end is an [HTTP triggered Azure Functions](https://docs.microsoft.com/e
 - Improve tests and tests documentation.
 
 Here is My Website Link: https://www.thendodon.me/
-And Is currently Offline as I got rid of the environment.
+And Is currently Offline as I decommisioned the environment.
